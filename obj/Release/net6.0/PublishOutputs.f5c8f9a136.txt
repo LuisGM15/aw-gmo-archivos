@@ -1,0 +1,17 @@
+C:\Users\luisg\Documents\Repositorios\NetCore\AWArchivos\obj\Release\net6.0\PubTmp\Out\AWArchivos.exe
+C:\Users\luisg\Documents\Repositorios\NetCore\AWArchivos\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\luisg\Documents\Repositorios\NetCore\AWArchivos\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\luisg\Documents\Repositorios\NetCore\AWArchivos\obj\Release\net6.0\PubTmp\Out\AWArchivos.dll
+C:\Users\luisg\Documents\Repositorios\NetCore\AWArchivos\obj\Release\net6.0\PubTmp\Out\AWArchivos.deps.json
+C:\Users\luisg\Documents\Repositorios\NetCore\AWArchivos\obj\Release\net6.0\PubTmp\Out\AWArchivos.runtimeconfig.json
+C:\Users\luisg\Documents\Repositorios\NetCore\AWArchivos\obj\Release\net6.0\PubTmp\Out\AWArchivos.pdb
+C:\Users\luisg\Documents\Repositorios\NetCore\AWArchivos\obj\Release\net6.0\PubTmp\Out\System.Web.Cors.dll
+C:\Users\luisg\Documents\Repositorios\NetCore\AWArchivos\obj\Release\net6.0\PubTmp\Out\System.Net.Http.Formatting.dll
+C:\Users\luisg\Documents\Repositorios\NetCore\AWArchivos\obj\Release\net6.0\PubTmp\Out\System.Web.Http.dll
+C:\Users\luisg\Documents\Repositorios\NetCore\AWArchivos\obj\Release\net6.0\PubTmp\Out\System.Web.Http.Cors.dll
+C:\Users\luisg\Documents\Repositorios\NetCore\AWArchivos\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\luisg\Documents\Repositorios\NetCore\AWArchivos\obj\Release\net6.0\PubTmp\Out\Newtonsoft.Json.dll
+C:\Users\luisg\Documents\Repositorios\NetCore\AWArchivos\obj\Release\net6.0\PubTmp\Out\Newtonsoft.Json.Bson.dll
+C:\Users\luisg\Documents\Repositorios\NetCore\AWArchivos\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\luisg\Documents\Repositorios\NetCore\AWArchivos\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\luisg\Documents\Repositorios\NetCore\AWArchivos\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll

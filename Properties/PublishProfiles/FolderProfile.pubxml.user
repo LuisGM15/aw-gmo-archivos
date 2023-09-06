@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\luisg\Documents\Repositorios\NetCore\AWArchivos\Publicar</_PublishTargetUrl>
+    <History>True|2023-09-06T19:34:47.6371122Z;True|2023-06-22T18:06:21.5776301-06:00;True|2023-06-22T17:08:24.5440107-06:00;True|2023-06-22T16:34:47.3322374-06:00;True|2023-06-22T16:09:39.4182601-06:00;True|2023-06-22T11:38:30.7666277-06:00;True|2023-06-22T11:36:39.8847243-06:00;True|2023-06-22T11:23:43.1926895-06:00;True|2023-06-22T11:22:55.5322263-06:00;True|2023-06-22T10:56:54.5329928-06:00;True|2023-06-22T10:53:38.0462213-06:00;True|2023-06-22T10:29:23.6817735-06:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>
