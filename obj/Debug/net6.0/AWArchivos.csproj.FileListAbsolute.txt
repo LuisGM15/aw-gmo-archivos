@@ -36,13 +36,8 @@ C:\Users\luisg\Documents\Repositorios\NetCore\AWArchivos\bin\Debug\net6.0\System
 C:\Users\luisg\Documents\Repositorios\NetCore\AWArchivos\bin\Debug\net6.0\System.Web.Http.Cors.dll
 C:\Users\luisg\Documents\Repositorios\NetCore\AWArchivos\bin\Debug\net6.0\Newtonsoft.Json.dll
 C:\Users\luisg\Documents\Repositorios\NetCore\AWArchivos\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
-C:\Users\luisg\Documents\Repositorios\NetCore\AWArchivos\bin\Debug\net6.0\Publicar\Publicar\web.config
 C:\Users\luisg\Documents\Repositorios\NetCore\AWArchivos\bin\Debug\net6.0\Publicar\web.config
 C:\Users\luisg\Documents\Repositorios\NetCore\AWArchivos\bin\Debug\net6.0\Publicar\appsettings.Development.json
 C:\Users\luisg\Documents\Repositorios\NetCore\AWArchivos\bin\Debug\net6.0\Publicar\appsettings.json
 C:\Users\luisg\Documents\Repositorios\NetCore\AWArchivos\bin\Debug\net6.0\Publicar\AWArchivos.deps.json
 C:\Users\luisg\Documents\Repositorios\NetCore\AWArchivos\bin\Debug\net6.0\Publicar\AWArchivos.runtimeconfig.json
-C:\Users\luisg\Documents\Repositorios\NetCore\AWArchivos\bin\Debug\net6.0\Publicar\Publicar\appsettings.Development.json
-C:\Users\luisg\Documents\Repositorios\NetCore\AWArchivos\bin\Debug\net6.0\Publicar\Publicar\appsettings.json
-C:\Users\luisg\Documents\Repositorios\NetCore\AWArchivos\bin\Debug\net6.0\Publicar\Publicar\AWArchivos.deps.json
-C:\Users\luisg\Documents\Repositorios\NetCore\AWArchivos\bin\Debug\net6.0\Publicar\Publicar\AWArchivos.runtimeconfig.json

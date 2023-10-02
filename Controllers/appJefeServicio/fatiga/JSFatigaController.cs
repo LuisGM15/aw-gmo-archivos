@@ -26,8 +26,9 @@ namespace AWArchivos.Controllers.appJefeServicio.fatiga
                     return response;
                 }
 
-                var headerPath = "C:\\inetpub\\wwwroot";
-                var bodyPath = "\\Archivos\\";
+                var headerPath = "C:\\inetpub\\wwwroot\\";
+                //var bodyPath = "Archivos\\intra\\admin\\avisos\\";//EXAMPLE
+                var bodyPath = "solicitud\\Evidencias\\";//PRODUCCION
                 var path = Path.Combine(_webHostEnvironment.ContentRootPath, headerPath+bodyPath);
 
                 if (!Directory.Exists(path))

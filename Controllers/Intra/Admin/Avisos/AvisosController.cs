@@ -1,5 +1,4 @@
-﻿using AWArchivos.Models.intra.admin.avisos;
-using AWArchivos.Models.Response;
+﻿using AWArchivos.Models.Response;
 using Microsoft.AspNetCore.Mvc;
 
 namespace AWArchivos.Controllers.Intra.Admin.Avisos
